@@ -16,9 +16,9 @@ class script(object):
 
 💡 **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [IT IS PRIVATE](https://t.me/Leomc_bot)**
 
-👥 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ʙx sᴜᴘᴘᴏʀᴛ](https://t.me/BXSUPPORT)**
+👥 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [Film Factory](https://t.me/filmfactorygroup1)**
 
-📢 **ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : [ʙx ʙᴏᴛs](https://t.me/BX_Botz)**
+📢 **ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : [Film Factory](https://t.me/filmfactorygroup1)**
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - Not OpenSource
@@ -46,7 +46,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TheAutoFilterBot
+<code>[Button Text](buttonurl:https://t.me/filmfactorygroup1
 )</code>
 
 <b>Alert buttons:</b>
