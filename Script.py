@@ -12,9 +12,9 @@ class script(object):
 
 📡 **ʜᴏsᴛᴇᴅ ᴏɴ : [ʜᴇʀᴏᴋᴜ](heroku.com)**
 
-👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴍᴜꜰᴀᴢ ᴛɢ 🇮🇳](t.me/MufazTG)**
+👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ISAGI](https://t.me/Leomc_bot)**
 
-💡 **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/nokiyirunnoippokitum)**
+💡 **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [IT IS PRIVATE](https://t.me/Leomc_bot)**
 
 👥 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ʙx sᴜᴘᴘᴏʀᴛ](https://t.me/BXSUPPORT)**
 
