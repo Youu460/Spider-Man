@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/BX_Botz')
+                InlineKeyboardButton('🤖 Updates', url='https://t.me/filmfactorygroup1')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/TheAutoFilterBot?start=help"),
@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/FlashFilmBot?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/BX_Botz')
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/filmfactorygroup1')
             ],[
             InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about')
@@ -86,7 +86,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/FlashFilmBot?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/BX_Botz')
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/filmfactorygroup1')
             ],[
             InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about')
@@ -304,6 +304,6 @@ async def delete_all_index_confirm(bot, message):
 
 MOVIE_BTNS = InlineKeyboardMarkup(
            [[
-           InlineKeyboardButton("🔰 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ 🔰", url="https://t.me/BX_Botz")
+           InlineKeyboardButton("🔰 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ 🔰", url="https://t.me/filmfactorygroup1")
            ]]
         )
